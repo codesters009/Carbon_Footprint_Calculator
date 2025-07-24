@@ -14,8 +14,6 @@
 -  Gemini API Integration: AI-generated suggestions (via route API).
 - Responsive Design: Optimized for both desktop and mobile devices.
 
- Screenshots:
-
  Tech Stack:
 
 1.Frontend: Next.js, React, TypeScript
